@@ -1,1 +1,3 @@
 *.exe
+/Others/*
+/.vscode
